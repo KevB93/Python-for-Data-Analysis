@@ -1,6 +1,6 @@
 # Python-for-Data-Analysis
 
-# This repository is for the **Python for Data Analysis Workshop** on 7th September 2020
+# This repository is for the **Python for Data Analysis Workshop** 
 
 
 
